@@ -1,0 +1,18 @@
+#app{
+  /* display: block; */
+  display: flex;
+  justify-content: flex;
+  /* width: 75%; */
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium';
+}
+
+body {
+  padding: 50px;
+  font-family: 'Gill Sans';
+  background-color: antiquewhite;
+}
+
